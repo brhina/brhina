@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **brhina/brhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Full-Stack Software Engineer | MERN & PERN Developer | React • Node.js • NestJS • PostgreSQL • MongoDB
 
-I am a Software Engineering student and Full-Stack Developer passionate about building scalable web applications, enterprise systems, real-time communication platforms, and AI-powered solutions.
+Software Engineer and Full-Stack Developer passionate about building scalable web applications, enterprise systems, real-time communication platforms, and AI-powered solutions.
 
 My expertise spans modern frontend development, backend architecture, database design, and real-time systems. I enjoy transforming complex business requirements into reliable, maintainable, and high-performance software products.
 
