@@ -70,36 +70,6 @@ My expertise spans modern frontend development, backend architecture, database d
 
 ---
 
-## 💼 Professional Experience
-
-### Enterprise Real-Time Communication Platform
-
-* Built a scalable WebRTC communication platform
-* Implemented 1-to-1 video/audio calls
-* Developed live streaming and real-time chat features
-* Designed room-based architecture and user presence tracking
-* Improved connection reliability with reconnection handling
-
-### Business Intelligence Analytics Platform
-
-* Developed KPI dashboards and reporting systems
-* Built secure REST APIs with Node.js and PostgreSQL
-* Implemented data visualization and export capabilities
-* Created scalable analytics workflows for business users
-
-### ERP Human Resource Management System
-
-* Developed complete HR lifecycle management
-* Built authentication and role-based access control
-* Implemented recruitment and onboarding workflows
-* Created QR-based attendance with geo-fencing
-* Developed real-time analytics dashboards
-
-### Corporate & Consultancy Websites
-
-* Designed and developed responsive business websites
-* Improved SEO, accessibility, and user experience
-* Built reusable frontend architecture and UI systems
 
 ---
 
