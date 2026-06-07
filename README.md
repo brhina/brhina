@@ -70,20 +70,6 @@ My expertise spans modern frontend development, backend architecture, database d
 
 ---
 
-
----
-
-## 🎯 Current Focus
-
-* Enterprise ERP Systems
-* Inventory & Warehouse Management Platforms
-* Artificial Intelligence Integration
-* Scalable System Design
-* Full-Stack Architecture
-* Technical Leadership & Product Development
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
