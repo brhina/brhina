@@ -14,3 +14,147 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Brhina Wubet 👋
+
+### Full-Stack Software Engineer | MERN & PERN Developer | React • Node.js • NestJS • PostgreSQL • MongoDB
+
+I am a Software Engineering student and Full-Stack Developer passionate about building scalable web applications, enterprise systems, real-time communication platforms, and AI-powered solutions.
+
+My expertise spans modern frontend development, backend architecture, database design, and real-time systems. I enjoy transforming complex business requirements into reliable, maintainable, and high-performance software products.
+
+---
+
+## 🚀 About Me
+
+* 💻 Full-Stack Developer specializing in **MERN** and **PERN** stacks
+* ⚛️ Building modern applications with **React.js**, **TypeScript**, and **Tailwind CSS**
+* 🔧 Designing scalable APIs using **Node.js**, **Express.js**, and **NestJS**
+* 🗄️ Experienced with **PostgreSQL**, **MongoDB**, and relational data modeling
+* 📡 Strong background in **WebRTC**, **Socket.IO**, and real-time systems
+* 🏢 Developing enterprise-grade solutions including **ERP**, **HRM**, **Inventory**, and **Business Intelligence Platforms**
+* 🤖 Interested in **Artificial Intelligence**, workflow automation, and intelligent software systems
+* 🌱 Continuously improving my software architecture, system design, and technical leadership skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### Real-Time & DevOps
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socket.io)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 💼 Professional Experience
+
+### Enterprise Real-Time Communication Platform
+
+* Built a scalable WebRTC communication platform
+* Implemented 1-to-1 video/audio calls
+* Developed live streaming and real-time chat features
+* Designed room-based architecture and user presence tracking
+* Improved connection reliability with reconnection handling
+
+### Business Intelligence Analytics Platform
+
+* Developed KPI dashboards and reporting systems
+* Built secure REST APIs with Node.js and PostgreSQL
+* Implemented data visualization and export capabilities
+* Created scalable analytics workflows for business users
+
+### ERP Human Resource Management System
+
+* Developed complete HR lifecycle management
+* Built authentication and role-based access control
+* Implemented recruitment and onboarding workflows
+* Created QR-based attendance with geo-fencing
+* Developed real-time analytics dashboards
+
+### Corporate & Consultancy Websites
+
+* Designed and developed responsive business websites
+* Improved SEO, accessibility, and user experience
+* Built reusable frontend architecture and UI systems
+
+---
+
+## 🎯 Current Focus
+
+* Enterprise ERP Systems
+* Inventory & Warehouse Management Platforms
+* Artificial Intelligence Integration
+* Scalable System Design
+* Full-Stack Architecture
+* Technical Leadership & Product Development
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brhina&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhina&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brhina&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Open to Opportunities
+
+I am available for:
+
+* Full-Stack Web Development
+* React & TypeScript Applications
+* REST API Development
+* ERP & Business Systems
+* PostgreSQL & MongoDB Solutions
+* Real-Time Communication Systems
+* Technical Consulting
+* Long-Term Collaboration
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://brwcodes.tech
+
+💼 LinkedIn: https://www.linkedin.com/in/brhina-wubet-503076356
+
+📧 Email: [brie11wubet@gmail.com](mailto:brie11wubet@gmail.com)
+
+💻 GitHub: https://github.com/brhina
+
+---
+
+### ⚡ Engineering software that solves real business problems.
+
