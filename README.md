@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Brhina Wubet 👋
-
 ### Experienced Full-Stack Software Engineer | MERN & PERN Developer | React • Node.js • NestJS • PostgreSQL • MongoDB
 
 Software Engineer and Full-Stack Developer passionate about building scalable web applications, enterprise systems, real-time communication platforms, and AI-powered solutions.
