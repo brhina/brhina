@@ -18,20 +18,6 @@ Software Engineer and Full-Stack Developer passionate about building scalable we
 
 My expertise spans modern frontend development, backend architecture, database design, and real-time systems. I enjoy transforming complex business requirements into reliable, maintainable, and high-performance software products.
 
----
-
-## 🚀 About Me
-
-* 💻 Full-Stack Developer specializing in **MERN** and **PERN** stacks
-* ⚛️ Building modern applications with **React.js**, **TypeScript**, and **Tailwind CSS**
-* 🔧 Designing scalable APIs using **Node.js**, **Express.js**, and **NestJS**
-* 🗄️ Experienced with **PostgreSQL**, **MongoDB**, and relational data modeling
-* 📡 Strong background in **WebRTC**, **Socket.IO**, and real-time systems
-* 🏢 Developing enterprise-grade solutions including **ERP**, **HRM**, **Inventory**, and **Business Intelligence Platforms**
-* 🤖 Interested in **Artificial Intelligence**, workflow automation, and intelligent software systems
-* 🌱 Continuously improving my software architecture, system design, and technical leadership skills
-
----
 
 ## 🛠️ Tech Stack
 
