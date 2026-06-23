@@ -81,7 +81,7 @@ I am available for:
 
 * Full-Stack Web Development
 * React & TypeScript Applications
-* REST API Development
+* REST API & Graphql Development
 * ERP & Business Systems
 * PostgreSQL & MongoDB Solutions
 * Real-Time Communication Systems
