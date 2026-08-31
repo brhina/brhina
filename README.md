@@ -14,31 +14,13 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Brhina Wubet
 
-### 🚀 Full-Stack Software Engineer | MERN • PERN • Next.js • Python/FastAPI
+### 🚀 Full-Stack Software Engineer
 
 Software Engineer and Full-Stack Developer focused on building **scalable, maintainable, and production-ready software systems**.
 
 I specialize in modern web application development, enterprise systems, REST APIs, database architecture, real-time communication, and AI-powered applications. I enjoy turning complex business requirements into reliable software solutions with clean architecture and strong engineering practices.
 
 My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowing me to build complete systems from frontend interfaces to backend services, databases, integrations, and deployment infrastructure.
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ---
 
@@ -64,6 +46,23 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 * API integration & third-party services
 * Validation, error handling & middleware
 * WebSocket-based communication
+
+---
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ---
 
