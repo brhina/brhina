@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Brhina Wubet
+# 👋 Brhina Wubet
 
 ### 🚀 Full-Stack Software Engineer
 
