@@ -23,6 +23,7 @@ I specialize in modern web application development, enterprise systems, REST API
 My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowing me to build complete systems from frontend interfaces to backend services, databases, integrations, and deployment infrastructure.
 
 ---
+## 🛠️ Tech Stack
 
 ### ⚙️ Backend Development
 
@@ -34,21 +35,7 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
-**Backend expertise:**
-
-* RESTful API development
-* API architecture & documentation
-* Authentication & authorization
-* JWT & role-based access control
-* Microservices architecture
-* Modular backend architecture
-* Background jobs & asynchronous processing
-* API integration & third-party services
-* Validation, error handling & middleware
-* WebSocket-based communication
-
 ---
-## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
 
@@ -75,40 +62,12 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
 
-**Database & data engineering:**
-
-* Relational database design
-* NoSQL database architecture
-* PostgreSQL & MongoDB
-* Database normalization
-* Complex SQL queries
-* Indexing & query optimization
-* Transactions & data integrity
-* Prisma ORM
-* Mongoose
-* Database migrations
-* Redis caching
-
 ---
 
 ### 🤖 AI & Intelligent Systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-**AI & intelligent application development:**
-
-* AI-powered applications
-* LLM integration
-* AI agents & workflows
-* Retrieval-Augmented Generation (RAG)
-* Semantic search
-* Vector embeddings
-* AI-powered analytics
-* Predictive analytics
-* Intelligent automation
-* AI API integration
-* Python backend services
 
 ---
 
@@ -118,16 +77,6 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-* WebSockets
-* Socket.IO
-* WebRTC
-* Real-time notifications
-* Real-time dashboards
-* Video/audio communication
-* Event-driven systems
-* Redis-based messaging
-* Real-time collaboration
-
 ---
 
 ### 📨 Messaging & Event-Driven Systems
@@ -135,14 +84,6 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-* Apache Kafka
-* RabbitMQ
-* Event-driven architecture
-* Message queues
-* Asynchronous processing
-* Background workers
-* Distributed systems
 
 ---
 
@@ -153,18 +94,6 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
-**DevOps & deployment:**
-
-* Docker & containerization
-* CI/CD pipelines
-* GitHub Actions
-* Environment configuration
-* Production deployment
-* Linux server environments
-* Application monitoring
-* Cloud deployment
-* Database deployment & migrations
-
 ---
 
 ### 🏗️ Architecture & Engineering
@@ -172,59 +101,7 @@ My experience spans both **JavaScript/TypeScript and Python ecosystems**, allowi
 * Clean Architecture
 * Modular Architecture
 * SOLID Principles
-* Object-Oriented Programming
-* Design Patterns
-* Repository Pattern
-* Dependency Injection
 * MVC Architecture
-* Microservices
-* Monolithic & Modular Systems
-* RESTful Architecture
-* Event-Driven Architecture
-* Scalable System Design
-* API Design
-* Database Architecture
-
----
-
-## 💼 What I Build
-
-### 🏢 Enterprise & ERP Systems
-
-Experienced in developing business applications covering areas such as:
-
-* Procurement
-* Inventory & Warehouse Management
-* Human Resources
-* Finance
-* Sales
-* Business Intelligence
-* Reporting & Analytics
-* Workflow & Approval Systems
-* Supplier & Vendor Management
-
-### 📊 Business Intelligence & Analytics
-
-* KPI dashboards
-* Interactive charts
-* Real-time business insights
-* Cross-module analytics
-* Reporting systems
-* Data visualization
-* Exportable reports
-* Predictive analytics
-
-### 🔐 Secure Applications
-
-* JWT authentication
-* Role-Based Access Control (RBAC)
-* Permission management
-* Secure API design
-* Password hashing
-* Authentication flows
-* Protected routes
-* Multi-role enterprise systems
-
 ---
 
 ## 🚀 Featured Development Areas
@@ -272,22 +149,6 @@ I am particularly interested in building **large-scale systems where frontend, b
 
 ---
 
-## 🎯 Currently Exploring
-
-* Advanced Next.js
-* Python & FastAPI
-* AI Engineering
-* LLM Applications
-* RAG & Vector Databases
-* Distributed Systems
-* Microservices
-* Event-Driven Architecture
-* Cloud-Native Development
-* System Design
-* High-Performance Backend Systems
-
----
-
 ## 🤝 Open to Opportunities
 
 I am interested in:
@@ -298,15 +159,7 @@ I am interested in:
 * Node.js & NestJS Development
 * Python & FastAPI Development
 * AI-Powered Applications
-* ERP & Enterprise Software
-* Business Intelligence Systems
-* REST API Development
-* Real-Time Applications
-* Database Architecture
-* Distributed Systems
-* Technical Consulting
-* Long-Term Software Engineering Projects
-
+* Developing Agentic AI and RAG systems
 ---
 
 ## 📫 Connect With Me
